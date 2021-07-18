@@ -4,3 +4,4 @@
 * Put the file `ViewingActivity.csv` in a directory named `private`
 * Play around with the notebook `plotting.ipynb`
 
+![Stacked barplot of watch times in 2020](example.png)
