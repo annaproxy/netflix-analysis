@@ -4,4 +4,11 @@
 * Put the file `ViewingActivity.csv` in a directory named `private`
 * Play around with the notebook `plotting.ipynb`
 
-![Stacked barplot of watch times in 2020](example.png)
+
+## Output example
+One of the possible things to inspect is watch times per user over time.
+
+![Stacked barplot of watch times in 2020 and 2021](example.png)
+
+## Question: Why is this a notebook?
+Answer: I like notebooks.
