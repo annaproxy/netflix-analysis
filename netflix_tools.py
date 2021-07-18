@@ -1,5 +1,6 @@
 import csv
 from datetime import timedelta, datetime
+import pandas as pd
 
 
 class Entry:
